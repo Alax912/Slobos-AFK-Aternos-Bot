@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Alax912.aternos.me:46403",
-    "port": 27586,
+    "ip": "Alax912.aternos.me",
+    "port": 46403,
     "version": "",
     "try-creative": false
   },
